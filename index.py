@@ -7,8 +7,8 @@ import smtplib, ssl
 from email.message import EmailMessage
 
 
-email = "Rohitratan440@gmail.com"
-password = "qxewtxdonhypdlqh"
+email = "Ratanrohit420@gmail.com"
+password = "qshpjbehxagztxec"
 
 def send_email(subject:str, body:str):
     em = EmailMessage()
