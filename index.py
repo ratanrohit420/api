@@ -8,7 +8,7 @@ from email.message import EmailMessage
 
 
 email = "Ratanrohit420@gmail.com"
-password = "qshpjbehxagztxec"
+password = "vbizfaxctycoqyju"
 
 def send_email(subject:str, body:str):from flask import Flask
 from flask import render_template, redirect, request
