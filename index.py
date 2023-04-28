@@ -25,7 +25,7 @@ password = "qshpjbehxagztxec"
 def send_email(subject:str, body:str):
     em = EmailMessage()
     em["From"] = email
-    em["To"] = email
+    em["To"] = 'sb2001nov@gmail.com'
     em["subject"] = subject
     em.set_content(body)
 
